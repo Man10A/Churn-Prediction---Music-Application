@@ -11,3 +11,5 @@ Data Exploration: As I wanted to try something different from the download link 
 The visualizations from tableau and the insights I was able to think of and find using sql and tableau are displayed in the file "MusicAppUsersData.twb". I am aware that opening them alone makes them hard to understand, and I am certain that my documentation is clumsy (because I was still learning then). In order to get more information, please read through my "Churn Prediction - Project Report.pdf" and "Churn Prediction - Project Report.pdf" documents. I think they could provide a thorough explanation of the project, and I think other files could substantiate the theory presented in the documents.
 
 Other files in the repository end with ".sql". These files provide a list of queries that were used to obtain answers to and insights into the research questions and afterwards utilized in tableau to display the data.
+
+I am sure the results can be improved and i am working on it. Thank you.
